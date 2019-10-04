@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "689746885250",
+    "firebase_url": "https://android-sojeon.firebaseio.com",
+    "project_id": "android-sojeon",
+    "storage_bucket": "android-sojeon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689746885250:android:1ca48825b73b42bd",
+        "android_client_info": {
+          "package_name": "com.example.firebase_sojeon_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689746885250-ks4i3ktpd5rak9u7fhlfic71udvpba6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1ChSBT5S_wd07vmDo0YfiUJKLlo4DzRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689746885250-ks4i3ktpd5rak9u7fhlfic71udvpba6p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
